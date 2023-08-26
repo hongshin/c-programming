@@ -3,7 +3,7 @@
 ### Class attributes ###
 * Meeting Time & Location: 10:00 AM, Mon & Thur @313 Newton Hall (NTH 313)
 * Instructor: Shin Hong https://hongshin.github.io :e-mail: hongshin@handong.edu :door: OH 313
-* Class Policies: [POLICY.md](POLICY.md)
+* Class Policies: [policy.md](policy.md)
 
 ### Learning materials ###
 **Main textbooks**
