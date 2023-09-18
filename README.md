@@ -13,5 +13,9 @@
 * [GNUC] The GNU C Reference Manual [link](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 
 **Lecture notes**
-* TBD 
+
+* Chapters 4 & 5. Conditionals, Recursion and more on Functions [\[pdf\]](notes/chapter4+5.pdf)
+* Chapter 3. Function [\[pdf\]](notes/chapter3.pdf) 
+* Chapter 2. The Way of Programming [\[pdf\]](notes/chapter1.pdf) 
+* Chapter 1. The Way of Programming [\[pdf\]](notes/chapter1.pdf) 
 
