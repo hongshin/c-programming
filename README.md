@@ -17,7 +17,7 @@
 | Sep 7 | [HtCS, Ch. 2] Variable and Type [\[slide\]](notes/chapter2.pdf), [\[code\]](examples/Sep7) |
 | Sep 4 | [HtCS, Ch. 1] The way of programming (con'd) |
 | Aug 31 | [HtCS, Ch. 1] The way of programming [\[slide\]](notes/chapter1.pdf) |
-| Aug 28 | Course introduction [\[slide\]](notes/course+intro.pdf)  |
+| Aug 28 | Course introduction [\[slide\]](notes/course-outline.pdf)  |
 
 <!---
 * Sep 18: [\[code\]](examples/Sep18)
