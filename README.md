@@ -11,6 +11,9 @@
 
 | Date | Slides and code examples |
 | :-------- | :-------- |
+| Sep 28 | Exercise on iteration [\[code\]](examples/Sep28) |
+| Sep 25 | [HtCS, Ch. 6] Iteration [\[slide\]](notes/chapter6.pdf) |
+| Sep 21 | Test 1, [HtCS, Ch. 5] More on functions [\[slide\]](notes/chapter4+5.pdf) |
 | Sep 18 | [HtCS, Ch. 4] Conditional and Recursion (con'd) [\[code\]](examples/Sep14) |
 | Sep 14 | [HtCS, Ch. 4] Conditional and Recursion [\[slide\]](notes/chapter4+5.pdf), [\[code\]](examples/Sep14) |
 | Sep 11 | [HtCS, Ch. 3] Function [\[slide\]](notes/chapter3.pdf), [\[code\]](examples/Sep11) |
