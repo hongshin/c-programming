@@ -112,6 +112,7 @@ Write a program that receives two integers ``b`` and ``e``, and then computes th
 
 $ b^2 + (b+1)^2 + ... (e-1)^2 + e^2 $
 
+![](formula.png)
 
 ### Problem 8
 
@@ -138,8 +139,6 @@ the greatest number appeared in the given sequence.
 For example, if the user gives
 ``2 8 8 2 8 7 7 7 7 5 7 8 5 2 2 4 2 1 2 2``, your program must print out the following:
 
-```
-8 (x4)
 ```
 
 ### Problem 10
