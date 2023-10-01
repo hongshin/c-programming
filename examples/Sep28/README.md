@@ -32,7 +32,6 @@ For ``n``=5, the following must be printed:
 *   *
 *   *
 *   *
-*   *
 *****
 ```
 
