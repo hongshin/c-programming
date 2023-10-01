@@ -18,9 +18,10 @@ void draw_rect (int n)
 int main () 
 {
 	int n ;
-	scanf("%d', &n) ;
+	scanf("%d", &n) ;
 
 	draw_rect(n) ;
+	return EXIT_SUCCESS ; 
 }
 ```
 
@@ -60,12 +61,13 @@ int main ()
 	scanf("%d', &n) ;
 
 	printf("%d", reverse(n)) ;
+	return EXIT_SUCCESS ;
 }
 ```
 
 ### Problem 4
 
-Write a program that receives an odd integer, and draws a diamon-shape text figure with ``+``.
+Write a program that receives an odd integer, and draws a diamon-shape text figure with ``*``.
 For example, if the program receives ``9``, the following text figure must be printed:
 
 ```
@@ -140,7 +142,8 @@ For example, if the user gives
 ``2 8 8 2 8 7 7 7 7 5 7 8 5 2 2 4 2 1 2 2``, your program must print out the following:
 
 ```
-
+8 (x4)
+```
 ### Problem 10
 
 Write a program that first receives a positive integer ``N`` from a user, and then receives ``N`` numbers of integers in sequence,
