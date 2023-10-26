@@ -11,6 +11,11 @@
 
 | Date | Slides and code examples |
 | :-------- | :-------- |
+| Oct 26 | [HtCS, Ch. 8] String [\[slide\]](notes/chapter8.pdf) [\[code\]](examples/Oct26) |
+| Oct 23 | [HtCS, Ch. 8] String [\[slide\]](notes/chapter8.pdf) [\[code\]](examples/Oct23) |
+| Oct 16 | [HtCS, Ch. 7] Array [\[slide\]](notes/chapter7.pdf) [\[code\]](examples/Oct16) |
+| Oct 12 | [HtCS, Ch. 7] Array [\[slide\]](notes/chapter7.pdf) [\[code\]](examples/Oct12) |
+| Oct 4 | Test 2 [\[pdf\]](notes/test2.pdf) |
 | Sep 28 | Exercise on iteration [\[code\]](examples/Sep28) |
 | Sep 25 | [HtCS, Ch. 6] Iteration [\[slide\]](notes/chapter6.pdf) |
 | Sep 21 | Test 1, [HtCS, Ch. 5] More on functions [\[slide\]](notes/chapter4+5.pdf) |
