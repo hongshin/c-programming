@@ -46,6 +46,7 @@
   ### Main textbooks ###
 * [HtCS] How to Think Like a Computer Scientist: C Version [🔗](https://github.com/tscheffl/ThinkC/blob/master/PDF/Think-C.pdf)
 * [DSys] Dive into Systems [🔗](https://diveintosystems.org)
-* [GNUC] The GNU C Reference Manual [🔗](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+* [GCM] The GNU C Reference Manual [🔗](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+* [PIC] Programming in C, Fourth Ed. by Stephen G. Kochan
 
 
