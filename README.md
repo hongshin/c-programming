@@ -11,6 +11,12 @@
 
 | Date | Slides and code examples |
 | :-------- | :-------- |
+| Nov 16 | [PIC, Ch. 7] Functions [\[slide\]](notes/pic-ch7.pdf) [\[code\]](examples/Nov16) |
+| Nov 13 | [PIC, Ch. 6] Arrays [\[slide\]](notes/pic-ch6.pdf) [\[code\]](examples/Nov13) |
+| Nov 9 | [PIC, Ch. 4 and 5] Looping and Branching [\[slide\]](notes/pic-ch4+5.pdf) [\[code\]](examples/Nov9) |
+| Nov 6 | [PIC, Ch. 3] Variable [\[slide\]](notes/pic-ch3.pdf) [\[code\]](examples/Nov6) |
+| Nov 2 | [HtCS, Ch. 9] Struct [\[slide\]](notes/chapter9.pdf) [\[code\]](examples/Nov2) |
+| Oct 30 | Test 3 |
 | Oct 26 | [HtCS, Ch. 8] String [\[slide\]](notes/chapter8.pdf) [\[code\]](examples/Oct26) |
 | Oct 23 | [HtCS, Ch. 8] String [\[slide\]](notes/chapter8.pdf) [\[code\]](examples/Oct23) |
 | Oct 16 | [HtCS, Ch. 7] Array [\[slide\]](notes/chapter7.pdf) [\[code\]](examples/Oct16) |
