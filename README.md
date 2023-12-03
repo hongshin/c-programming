@@ -11,7 +11,7 @@
 
 | Date | Slides and code examples |
 | :-------- | :-------- |
-| Nov 27 | [PIC, Ch. 10 & Ch. 14] Linked List [\[slide\]](notes/pic-ch10.pdf) [\[code\]](examples/Nov27) |
+| Nov 27 | [PIC, Ch. 10 & Ch. 16] Linked List [\[slide\]](notes/pic-ch10.pdf) [\[code\]](examples/Nov27) |
 | Nov 23 | [PIC, Ch. 10] Pointers [\[slide\]](notes/pic-ch10.pdf) [\[code\]](examples/Nov23) |
 | Nov 20 | Test4 |
 | Nov 16 | [PIC, Ch. 7] Functions [\[slide\]](notes/pic-ch7.pdf) [\[code\]](examples/Nov16) |
