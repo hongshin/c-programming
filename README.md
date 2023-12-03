@@ -11,6 +11,9 @@
 
 | Date | Slides and code examples |
 | :-------- | :-------- |
+| Nov 27 | [PIC, Ch. 10 & Ch. 14] Linked List [\[slide\]](notes/pic-ch10.pdf) [\[code\]](examples/Nov27) |
+| Nov 23 | [PIC, Ch. 10] Pointers [\[slide\]](notes/pic-ch10.pdf) [\[code\]](examples/Nov23) |
+| Nov 20 | Test4 |
 | Nov 16 | [PIC, Ch. 7] Functions [\[slide\]](notes/pic-ch7.pdf) [\[code\]](examples/Nov16) |
 | Nov 13 | [PIC, Ch. 6] Arrays [\[slide\]](notes/pic-ch6.pdf) [\[code\]](examples/Nov13) |
 | Nov 9 | [PIC, Ch. 4 and 5] Looping and Branching [\[slide\]](notes/pic-ch4+5.pdf) [\[code\]](examples/Nov9) |
