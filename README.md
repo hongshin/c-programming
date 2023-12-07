@@ -11,6 +11,7 @@
 
 | Date | Slides and code examples |
 | :-------- | :-------- |
+| Dec 4  | [PIC, Ch. 10 & Ch. 16] Linked List (con'd) [\[code\]](examples/Dec4) | 
 | Nov 27 | [PIC, Ch. 10 & Ch. 16] Linked List [\[slide\]](notes/pic-ch10.pdf) [\[code\]](examples/Nov27) |
 | Nov 23 | [PIC, Ch. 10] Pointers [\[slide\]](notes/pic-ch10.pdf) [\[code\]](examples/Nov23) |
 | Nov 20 | Test4 |
