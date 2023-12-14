@@ -42,7 +42,6 @@ Alex Cintron CWS Shortstop 74 199 28.2
 Joe Crede CWS Third-Baseman 73 200 28.85
 Josh Fields CWS Third-Baseman 73 215 24.21
 Ryan Sweeney CWS Outfielder 76 200 22.02
-Brian N. Anderson CWS Outfielder 74 205 24.97
 Luis Terrero CWS Outfielder 74 206 26.78
 Pablo Ozuna CWS Outfielder 70 186 32.51
 Scott Podsednik CWS Outfielder 72 188 30.95
@@ -81,7 +80,6 @@ Maicer Izturis ANA Third-Baseman 68 155 26.46
 Reggie Willits ANA Outfielder 71 185 25.75
 Tommy Murphy ANA Outfielder 72 185 27.51
 Terry Evans ANA Outfielder 75 200 25.11
-Gary Matthews Jr. ANA Outfielder 75 225 32.51
 Garret Anderson ANA Outfielder 75 225 34.67
 Vladimir Guerrero ANA Outfielder 75 220 31.06
 Chone Figgins ANA Outfielder 68 160 29.1
@@ -109,7 +107,6 @@ Dustin Pedroia BOS Second-Baseman 69 180 23.54
 Alex Cora BOS Shortstop 72 180 31.37
 Julio Lugo BOS Shortstop 73 170 31.29
 Mike Lowell BOS Third-Baseman 75 210 33.01
-Wily Mo Pe?a BOS Outfielder 75 215 25.1
 J.D. Drew BOS Outfielder 73 200 31.28
 Manny Ramirez BOS Outfielder 72 213 34.75
 Brandon Moss BOS Outfielder 72 180 23.46
@@ -631,7 +628,6 @@ Chris Denorfia CIN Outfielder 73 185 26.63
 Adam Dunn CIN Outfielder 78 240 27.31
 Bubba Crosby CIN Outfielder 71 185 30.55
 Jeff Conine CIN Outfielder 73 220 40.68
-Ken Griffey Jr. CIN Outfielder 75 205 37.27
 Josh Hamilton CIN Outfielder 76 205 25.78
 Ryan Freel CIN Outfielder 70 180 30.98
 Kyle Lohse CIN Starting-Pitcher 74 201 28.41
@@ -686,7 +682,6 @@ Brian Fuentes COL Relief-Pitcher 76 220 31.56
 LaTroy Hawkins COL Relief-Pitcher 77 215 34.19
 Tom Martin COL Relief-Pitcher 73 206 36.78
 Jeremy Affeldt COL Relief-Pitcher 76 215 27.73
-Paul Lo Duca NYM Catcher 70 185 34.88
 Ramon Castro NYM Catcher 75 235 31
 Julio Franco NYM First-Baseman 73 188 48.52
 Carlos Delgado NYM First-Baseman 75 230 34.68
@@ -706,7 +701,7 @@ Alay Soler NYM Starting-Pitcher 73 240 27.39
 Mike Pelfrey NYM Starting-Pitcher 79 190 23.13
 Pedro Martinez NYM Starting-Pitcher 71 180 35.35
 Tom Glavine NYM Starting-Pitcher 72 185 40.93
-Chan Ho Park NYM Starting-Pitcher 74 210 33.67
+Chan-Ho Park NYM Starting-Pitcher 74 210 33.67
 Orlando Hernandez NYM Starting-Pitcher 74 220 37.39
 Dave Williams NYM Starting-Pitcher 74 219 27.97
 Oliver Perez NYM Starting-Pitcher 72 190 25.54
@@ -822,7 +817,6 @@ Ryan Madson PHI Relief-Pitcher 78 190 26.51
 Antonio Alfonseca PHI Relief-Pitcher 77 250 34.87
 Tom Gordon PHI Relief-Pitcher 70 190 39.28
 Brian Sanches PHI Relief-Pitcher 72 190 28.56
-Jim Ed Warden PHI Relief-Pitcher 79 190 27.82
 Anderson Garcia PHI Relief-Pitcher 74 170 25.94
 Eude Brito PHI Relief-Pitcher 71 160 28.53
 Fabio Castro PHI Relief-Pitcher 68 150 22.11
@@ -842,7 +836,6 @@ Corey Koskie MLW Third-Baseman 75 219 33.67
 Kevin Mench MLW Outfielder 72 225 29.14
 Geoff Jenkins MLW Outfielder 73 212 32.61
 Brady Clark MLW Outfielder 74 202 33.87
-Tony Gwynn Jr. MLW Outfielder 72 185 24.41
 Corey Hart MLW Outfielder 78 200 24.94
 Gabe Gross MLW Outfielder 75 209 27.36
 Laynce Nix MLW Outfielder 72 200 26.33
@@ -872,7 +865,6 @@ Khalil Greene SD Shortstop 71 210 27.36
 Paul McAnulty SD Outfielder 70 220 26.01
 Terrmel Sledge SD Outfielder 72 185 29.95
 Jack Cust SD Outfielder 73 231 28.12
-Jose Cruz Jr. SD Outfielder 72 210 32.87
 Russell Branyan SD Outfielder 75 195 31.2
 Mike Cameron SD Outfielder 74 200 34.14
 Brian Giles SD Outfielder 70 205 36.11
@@ -953,7 +945,6 @@ Zach Duke PIT Starting-Pitcher 74 207 23.87
 Paul Maholm PIT Starting-Pitcher 74 225 24.68
 Tom Gorzelanny PIT Starting-Pitcher 74 207 24.64
 Shawn Chacon PIT Starting-Pitcher 75 212 29.19
-Tony Armas Jr. PIT Starting-Pitcher 75 225 28.84
 Ian Snell PIT Starting-Pitcher 71 170 25.33
 Sean Burnett PIT Starting-Pitcher 71 190 24.45
 John Grabow PIT Relief-Pitcher 74 210 28.32
@@ -1032,4 +1023,3 @@ Tyler Johnson STL Relief-Pitcher 74 180 25.73
 Chris Narveson STL Relief-Pitcher 75 205 25.19
 Randy Keisler STL Relief-Pitcher 75 190 31.01
 Josh Kinney STL Relief-Pitcher 73 195 27.92
-
